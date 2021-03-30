@@ -34,7 +34,7 @@ commands:
   - testforblock
   - tellraw
 settings:
-  bungeecord: true
+  bungeecord: false
   sample-count: 12
   player-shuffle: 0
   moved-wrongly-threshold: 0.0625
