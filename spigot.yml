@@ -84,7 +84,7 @@ world-settings:
     max-tnt-per-tick: 10
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 1200
-    view-distance: 5
+    view-distance: 4
     wither-spawn-sound-radius: 0
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200

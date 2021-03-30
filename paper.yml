@@ -211,7 +211,7 @@ world-settings:
       spawn-chance-min: 25
       spawn-chance-max: 75
     viewdistances:
-      no-tick-view-distance: -1
+      no-tick-view-distance: 6
     anti-xray:
       use-permission: false
       enabled: true
